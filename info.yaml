@@ -21,8 +21,8 @@ pinout:
   ui[2]: "and in"
   ui[3]: ""
   ui[4]: ""
-  ui[5]: "2 in, nand in"
-  ui[6]: "nand in, nor in"
+  ui[5]: "2 in nand in"
+  ui[6]: "nand in nor in"
   ui[7]: "nor in"
 
   # Outputs
